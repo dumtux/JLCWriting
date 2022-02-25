@@ -24,7 +24,21 @@ GIthub Repository | Author | Star | Fork | Contributors | Last Updated
 [KiJLC](https://github.com/fullyautomated/KiJLC) | Fully Automated <https://fully.automated.ee/> | 12 | 8 | 2 | 2021
 [KiCad BOM CPL Plugin](https://github.com/prrvchr/KiCad-BOM-CPL-Plugin) | prrvchr prrvchr@gmail.com | 3 | 2 | 1 | 2020
 
-Installing [KiCAD JLCPCB tools][4] on KiCAD is easy.
+Install [KiCAD JLCPCB tools][4] on KiCAD as described in the doc.
+* open KiCAD
+* go to menu **Tools** > **Plugin and Content Manager**
+* in the Plugin and Content Manager dialog, click **Manage** button
+* in the opened Manage Repositories dialog, click **+** button
+* copy and paste the following repository metadata URL `https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/repository.json`
+* click **Save** button
+* click the dropdown named **KiCad official repository** and select **Bouni's KiCad repository**
+* click **Install** button of **KiCAD JLCPCB tools** item on the left panel
+* close the Plugin and Content Manager dialog
+
+If installation worked, you could see a blue JLCPCB tools icon on the toolbar of PCB Editor.
+
+## Design the PCB with RP2040
+
 
 ---
 
