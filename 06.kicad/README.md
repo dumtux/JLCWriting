@@ -1,4 +1,4 @@
-# [JLCPCB][1] SMT Assembly service - Raspberry Pico RP2040 KiCAD Design
+# (DRAFT) [JLCPCB][1] SMT Assembly service - Raspberry Pico RP2040 KiCAD Design
 
 In this article, we will explore how to get a KiCAD design fabricated and assembled by [JLCPCB][1] SMT Assembly service.
 We'll use [RPi Pico Debugger Shoe][2]as a starting template.
