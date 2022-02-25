@@ -1,3 +1,12 @@
 [submodule "04.glasgow-3d-asked-by-dasy/glasgow"]
 	path = 04.glasgow-3d-asked-by-dasy/glasgow
 	url = https://github.com/GlasgowEmbedded/glasgow
+[submodule "06.kicad/rpi-pico-debugger-shoe"]
+	path = 06.kicad/rpi-pico-debugger-shoe
+	url = https://github.com/ShawnHymel/rpi-pico-debugger-shoe
+[submodule "06.kicad/SparkFun_Pro_Micro-RP2040"]
+	path = 06.kicad/SparkFun_Pro_Micro-RP2040
+	url = https://github.com/sparkfun/SparkFun_Pro_Micro-RP2040
+[submodule "06.kicad/rpduino"]
+	path = 06.kicad/rpduino
+	url = https://github.com/hotteshen/rpduino.git
